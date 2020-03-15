@@ -12,7 +12,7 @@ GOREGAON;MALAD
 
 # MENU
 
-##Kids favourite American Snack Box 
+## Kids favourite American Snack Box 
 
 Non- Veg  (400) |  Veg (400)
 ----------------|------------------------
@@ -21,7 +21,7 @@ French Fries/ starter of choice | Classic Veg Burger
 Classic Chicken Burger / Classic Chicken Vada Pav | Something
 Dessert | Dessert
 
-##Work For Food Indo American Snack Box 
+## Work For Food Indo American Snack Box 
 
 Non- Veg (500) | Veg (400)
 ---------------|-----------
