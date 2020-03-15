@@ -22,6 +22,7 @@ Classic Chicken Burger / Classic Chicken Vada Pav | Something
 Dessert | Dessert
 
 ##Work For Food Indo American Snack Box 
+
 Non- Veg (500) | Veg (400)
 ---------------|-----------
 2 bbq/tandoori chicken wings | Pizza samosa pockets/ Veg nuggets 
